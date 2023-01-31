@@ -8,6 +8,7 @@
 	"description":"This can be used to set up email forwarding at WordPress.com",
 	"syncBlock": false,
 	"syncRedirectDomain":"wordpress.com",
+	"syncPubKeyDomain":"wordpress.com",
 	"warnPhishing": false,
 	"records":[
 		{
